@@ -7,3 +7,6 @@ E:\Selasa_141110469_Johan\Selasa_141110469_Johan\Latihan_1_1\obj\Debug\Latihan_1
 E:\Selasa_141110469_Johan\Selasa_141110469_Johan\Latihan_1_1\obj\Debug\Latihan_1_1.csproj.GenerateResource.Cache
 E:\Selasa_141110469_Johan\Selasa_141110469_Johan\Latihan_1_1\obj\Debug\Latihan_1_1.exe
 E:\Selasa_141110469_Johan\Selasa_141110469_Johan\Latihan_1_1\obj\Debug\Latihan_1_1.pdb
+C:\Users\JOHAN\Desktop\framework\Latihan_1_1\bin\Debug\Latihan_1_1.exe.config
+C:\Users\JOHAN\Desktop\framework\Latihan_1_1\obj\Debug\Latihan_1_1.exe
+C:\Users\JOHAN\Desktop\framework\Latihan_1_1\obj\Debug\Latihan_1_1.pdb

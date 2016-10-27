@@ -1,0 +1,9 @@
+C:\Users\JOHAN\Desktop\framework\Latihan_2_1\bin\Debug\Latihan_2_1.exe.config
+C:\Users\JOHAN\Desktop\framework\Latihan_2_1\bin\Debug\Latihan_2_1.exe
+C:\Users\JOHAN\Desktop\framework\Latihan_2_1\bin\Debug\Latihan_2_1.pdb
+C:\Users\JOHAN\Desktop\framework\Latihan_2_1\obj\Debug\Latihan_2_1.csprojResolveAssemblyReference.cache
+C:\Users\JOHAN\Desktop\framework\Latihan_2_1\obj\Debug\Latihan_2_1.Form1.resources
+C:\Users\JOHAN\Desktop\framework\Latihan_2_1\obj\Debug\Latihan_2_1.Properties.Resources.resources
+C:\Users\JOHAN\Desktop\framework\Latihan_2_1\obj\Debug\Latihan_2_1.csproj.GenerateResource.Cache
+C:\Users\JOHAN\Desktop\framework\Latihan_2_1\obj\Debug\Latihan_2_1.exe
+C:\Users\JOHAN\Desktop\framework\Latihan_2_1\obj\Debug\Latihan_2_1.pdb
