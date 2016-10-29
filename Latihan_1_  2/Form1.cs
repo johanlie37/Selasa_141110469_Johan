@@ -55,5 +55,9 @@ namespace Latihan_1___2
             DTP.MinDate = DateTime.Today.AddYears(-vScrollBar2.Value);
         }
 
+        private void Form1_Load(object sender, EventArgs e)
+        {
+
         }
+    }
     }

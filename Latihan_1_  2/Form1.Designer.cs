@@ -94,6 +94,7 @@
             this.Controls.Add(this.vScrollBar1);
             this.Name = "Form1";
             this.Text = "Latihan_1_2";
+            this.Load += new System.EventHandler(this.Form1_Load);
             this.ResumeLayout(false);
             this.PerformLayout();
 
