@@ -7,3 +7,12 @@ C:\Users\JOHAN\Desktop\framework\Latihan_5_1\obj\Debug\Latihan_5_1.csproj.Genera
 C:\Users\JOHAN\Desktop\framework\Latihan_5_1\obj\Debug\Latihan_5_1.exe
 C:\Users\JOHAN\Desktop\framework\Latihan_5_1\obj\Debug\Latihan_5_1.pdb
 C:\Users\JOHAN\Desktop\framework\Latihan_5_1\obj\Debug\Latihan_5_1.csprojResolveAssemblyReference.cache
+C:\Users\JOHAN-PC\Desktop\framework\Latihan_5_1\bin\Debug\Latihan_5_1.exe.config
+C:\Users\JOHAN-PC\Desktop\framework\Latihan_5_1\obj\Debug\Latihan_5_1.exe
+C:\Users\JOHAN-PC\Desktop\framework\Latihan_5_1\obj\Debug\Latihan_5_1.pdb
+C:\Users\JOHAN-PC\Desktop\framework\Latihan_5_1\bin\Debug\Latihan_5_1.exe
+C:\Users\JOHAN-PC\Desktop\framework\Latihan_5_1\bin\Debug\Latihan_5_1.pdb
+C:\Users\JOHAN-PC\Desktop\framework\Latihan_5_1\obj\Debug\Latihan_5_1.csprojResolveAssemblyReference.cache
+C:\Users\JOHAN-PC\Desktop\framework\Latihan_5_1\obj\Debug\Latihan_5_1.Form1.resources
+C:\Users\JOHAN-PC\Desktop\framework\Latihan_5_1\obj\Debug\Latihan_5_1.Properties.Resources.resources
+C:\Users\JOHAN-PC\Desktop\framework\Latihan_5_1\obj\Debug\Latihan_5_1.csproj.GenerateResource.Cache

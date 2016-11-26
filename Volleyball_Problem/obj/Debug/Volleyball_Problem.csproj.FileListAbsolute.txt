@@ -1,0 +1,9 @@
+C:\Users\JOHAN-PC\Desktop\framework\Volleyball_Problem\bin\Debug\Volleyball_Problem.exe.config
+C:\Users\JOHAN-PC\Desktop\framework\Volleyball_Problem\obj\Debug\Volleyball_Problem.csprojResolveAssemblyReference.cache
+C:\Users\JOHAN-PC\Desktop\framework\Volleyball_Problem\obj\Debug\Volleyball_Problem.Form1.resources
+C:\Users\JOHAN-PC\Desktop\framework\Volleyball_Problem\obj\Debug\Volleyball_Problem.Properties.Resources.resources
+C:\Users\JOHAN-PC\Desktop\framework\Volleyball_Problem\obj\Debug\Volleyball_Problem.csproj.GenerateResource.Cache
+C:\Users\JOHAN-PC\Desktop\framework\Volleyball_Problem\bin\Debug\Volleyball_Problem.exe
+C:\Users\JOHAN-PC\Desktop\framework\Volleyball_Problem\bin\Debug\Volleyball_Problem.pdb
+C:\Users\JOHAN-PC\Desktop\framework\Volleyball_Problem\obj\Debug\Volleyball_Problem.exe
+C:\Users\JOHAN-PC\Desktop\framework\Volleyball_Problem\obj\Debug\Volleyball_Problem.pdb
