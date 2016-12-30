@@ -1,0 +1,5 @@
+C:\Users\JOHAN-PC\Desktop\framework\pertemuan 11_a\bin\Debug\pertemuan 11_a.exe.config
+C:\Users\JOHAN-PC\Desktop\framework\pertemuan 11_a\obj\Debug\pertemuan 11_a.csprojResolveAssemblyReference.cache
+C:\Users\JOHAN-PC\Desktop\framework\pertemuan 11_a\obj\Debug\pertemuan_11_a.Form1.resources
+C:\Users\JOHAN-PC\Desktop\framework\pertemuan 11_a\obj\Debug\pertemuan_11_a.Properties.Resources.resources
+C:\Users\JOHAN-PC\Desktop\framework\pertemuan 11_a\obj\Debug\pertemuan 11_a.csproj.GenerateResource.Cache
