@@ -42,7 +42,7 @@ CREATE TABLE `customer` (
 --
 
 INSERT INTO `customer` (`id`, `name`, `address`, `zip_code`, `phone_number`, `email`, `created_at`, `updated_at`) VALUES
-(141110337, 'Steven', 'Pakam', '20512', '+424558', '141110337@student.mikroskil.ac.id', '2016-12-23 03:29:01', NULL);
+(141110469, 'Johan', 'Medan', '20212', '+456258', '141110469@student.mikroskil.ac.id', '2016-12-23 03:29:01', NULL);
 
 --
 -- Indexes for dumped tables
